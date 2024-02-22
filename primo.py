@@ -22,3 +22,11 @@ d= 2*raggio*asin(sqrt(sin(1/2*(ϕ2-ϕ1))**2+cos(ϕ1)*cos(ϕ2)*sin(1/2*(λ2-λ1))
 
 print (d)
 
+
+
+
+
+
+
+
+
